@@ -1,2 +1,3 @@
 - [Generating SSH Keys - GitHub](https://help.github.com/articles/generating-ssh-keys/)
 - [rbenv](https://github.com/sstephenson/rbenv)
+- [Bash prompt generator](http://bashrcgenerator.com/)
