@@ -2,3 +2,6 @@
 alias gs='git status'
 alias ga='git add '
 alias gcm='git commit -m '
+
+# Instalacion rapida
+alias sai='sudo apt-get install '
