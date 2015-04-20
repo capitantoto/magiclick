@@ -1,0 +1,59 @@
+KeepAlive yes
+ServerAliveInterval 60
+
+Host oficina
+	HostName gonzalobb.ddns.net
+	User gonzalo
+
+Host gonr1
+	HostName reporting1.stoneacrehq.com
+	Port 30003
+	User gonzalo
+
+Host gonr2
+	HostName reporting2.stoneacrehq.com
+	Port 30003
+	User gonzalo
+
+Host depr1
+	HostName reporting1.stoneacrehq.com
+	Port 30003
+	User deploy
+
+Host depr2
+	HostName reporting2.stoneacrehq.com
+	Port 30003
+	User deploy
+
+Host checkout
+	HostName co.onmc.com
+	Port 30003
+	User gonzalo
+
+Host gonds
+	HostName dartsandbox.stoneacrehq.com
+	Port 30003
+	User gonzalo
+
+Host depds
+	Hostname dartsandbox.stoneacrehq.com
+	Port 30003
+	User deploy
+
+Host dev
+	Hostname dev.affinitystop.com
+	Port 30003
+	User gonzalo
+
+Host elijah
+	Hostname 162.220.15.210
+	User gonzalo
+
+Host proto
+	Hostname 50.116.16.84
+  Port 30003
+	User gonzalo
+
+Host molly
+  Hostname 192.168.1.7
+  User gonzalo
