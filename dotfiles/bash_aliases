@@ -3,6 +3,10 @@ alias gs='git status'
 alias ga='git add '
 alias gcm='git commit -m '
 alias gd='git diff'
+alias gdc='git diff --cached'
 
 # Instalacion rapida
 alias sai='sudo apt-get install '
+
+# Usar pivotal-slacker facilmente
+alias pt='pivotal-slacker '
