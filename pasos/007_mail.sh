@@ -24,7 +24,7 @@ chmod 600 $HOME/.fetchmailrc
 echo "Install procmail for mail delivery"
 sudo apt-get install procmail
 
-echo "Sets the MAIL environment variable" >> $HOME/.bashrc
+echo "# Sets the MAIL environment variable" >> $HOME/.bashrc
 echo "MAIL=/var/spool/mail/gonzalo && export MAIL" >> $HOME/.bashrc
 source $HOME/.bashrc
 
