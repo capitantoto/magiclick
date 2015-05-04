@@ -10,3 +10,7 @@ alias sai='sudo apt-get install '
 
 # Usar pivotal-slacker facilmente
 alias pt='pivotal-slacker '
+
+# Alias cortisimos para acciones muy habituales
+alias e='$EDITOR '
+alias o='xdg-open '
