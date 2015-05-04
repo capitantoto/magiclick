@@ -1,5 +1,8 @@
-pass
-tig
+sai pass
+sai tig
+sai htop
+# Para que ande la gema de cli PT
+sai libreadline-dev
 
-htop
-htop
+# Para manejar PT desde la consola
+gem install pivotal slacker

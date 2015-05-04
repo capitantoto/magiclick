@@ -3,3 +3,4 @@
 - [Bash prompt generator](http://bashrcgenerator.com/)
 - [`pass`, a CLI password store](http://www.passwordstore.org/)
 
+- [Gem pivotal-slacker](https://github.com/dreki/pivotal-slacker)
