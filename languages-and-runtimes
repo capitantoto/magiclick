@@ -1,0 +1,19 @@
+# I am listing here several languages and runtimes that I have had to use recently
+# Estos deberian ser instalados *luego* de configurar las aplicaciones basicas, a medida que hagan falta.
+
+# Ruby 1.9.3-p327 para Phoenix
+rbenv install 1.9.3-p327
+
+# Ruby 2.2.0 
+rbenv install 1.9.3-p327
+
+# y node.js para Rails Tutorial
+# http://howtonode.org/how-to-install-nodejs
+git clone git://github.com/ry/node.git
+cd node
+./configure
+make
+sudo make install
+
+# Heroku toolbelt for Ubunt (with foreman & git)
+wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh

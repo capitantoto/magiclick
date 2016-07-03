@@ -1,4 +1,6 @@
 # Git aliases
+# # Todos estos deberian ser seteados a traves de git config como en el siguiente ejemplo
+# git config --global alias.co checkout
 alias gs='git status'
 alias ga='git add '
 alias gcm='git commit -m '
@@ -14,3 +16,4 @@ alias pt='pivotal-slacker '
 # Alias cortisimos para acciones muy habituales
 alias e='$EDITOR '
 alias o='xdg-open '
+alias enw='emacs -nw '

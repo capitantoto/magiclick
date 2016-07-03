@@ -6,3 +6,8 @@ sai libreadline-dev
 
 # Para manejar PT desde la consola
 gem install pivotal slacker
+# Vundle and dbext from vim
+# Something is missing here
+
+# For eas of mind during long I/O processes
+sai pv
