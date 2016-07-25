@@ -1,13 +1,13 @@
-sai pass
-sai tig
-sai htop
+# Herramientas basicas utiles
+- vim # La unica edicion de texto en terminal que masomeno cazo
+- git # Complejizar cualquier carpeta, con clase
+  - tig # Navegador de commits visual en consola
+- tmux # Para, uhm, no se bien? Multiplexer de terminal
+- pass # Administrador de contrasenias unixy
+- htop # Administrador de procesos amable para consola
+- pv # Pipe Viewer para tener idea grafica de progreso en tareas largas
+
 # Para que ande la gema de cli PT
-sai libreadline-dev
+- libreadline-dev
 
-# Para manejar PT desde la consola
-gem install pivotal slacker
 # Vundle and dbext from vim
-# Something is missing here
-
-# For eas of mind during long I/O processes
-sai pv
