@@ -1,0 +1,10 @@
+Pry.config.commands.alias_command "sd", "show-doc"
+
+Pry.config.commands.alias_command "sm", "show-method"
+
+Pry.config.commands.alias_command "ed", "edit"
+
+Pry.config.commands.alias_command "fm", "find-method"
+
+Pry.editor = "vim"
+

@@ -8,12 +8,9 @@ alias gd='git diff'
 alias gdc='git diff --cached'
 
 # Instalacion rapida
-alias sai='sudo apt-get install '
-
-# Usar pivotal-slacker facilmente
-alias pt='pivotal-slacker '
+alias sai='sudo apt install $1'
 
 # Alias cortisimos para acciones muy habituales
 alias e='$EDITOR '
-alias o='xdg-open '
+alias gogo='xdg-open '
 alias enw='emacs -nw '

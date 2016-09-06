@@ -1,3 +1,6 @@
+# Administracion de contrasenias con pass
+
+
 # Manejo de contrasenas
 
 `pass` parece ser la herramienta que quiero. Ademas, hasta hay un script para importar data de 1password.
