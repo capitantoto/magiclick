@@ -11,7 +11,7 @@ git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
 ```bash
 echo '# Add ~/.rbenv/bin to your $PATH for access to the rbenv command-line utility.' >> ~/.bashrc
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
-echo 'Add rbenv init to your shell to enable shims and autocompletion.' >> ~/.bashrc
+echo '# Add rbenv init to your shell to enable shims and autocompletion.' >> ~/.bashrc
 echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 source ~/.bashrc
 ```
